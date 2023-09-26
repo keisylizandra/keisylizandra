@@ -5,6 +5,14 @@
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - ✏️ Digital and Graphical art enthusiast
+  
+<h3 align="left">Languages and Tools:</h3>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Keisy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Keisy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Keisy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Keisy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
