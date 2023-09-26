@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <!--
 **keisylizandra/keisylizandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
