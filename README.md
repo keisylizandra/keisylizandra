@@ -4,7 +4,7 @@
 </div>
 
 <p align="left">
-🧑🏻‍🎓I'm an Information Systems student at the <a href="https://upe.br">University of Pernambuco</a> (UPE).
+🔭 I'm an Information Systems student at the <a href="https://upe.br">University of Pernambuco</a> (UPE).
   
 </p>
 
