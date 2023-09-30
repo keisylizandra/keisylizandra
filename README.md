@@ -1,10 +1,15 @@
-<h1 align="left">Hi!</h1>
-<p
-<h5 align="left">My name is Keisy, i'm currently a Information System at the University of Pernambuco.</h5>
+<div style="display: inline_block">
+ <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" align="left">
+ <h1 aling="center">Hi, Im' Keisy!</h1> </p>
+</div>
+
+<p align="left">
+🧑🏻‍🎓I'm an Information Systems student at the <a href="https://upe.br">University of Pernambuco</a> (UPE).
+  
 </p>
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- ✏️ Digital and Graphical art enthusiast
+- 🌱 I’m currently learning web development
+- ✏️ Always trying to learn more
   
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block"><br>
