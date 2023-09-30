@@ -25,3 +25,5 @@
 [![keisylizandra](https://github-readme-stats.vercel.app/api?username=keisylizandra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![keisylizandra](https://github-readme-stats.vercel.app/api/top-langs/?username=keisylizandra&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/devictor8/devictor8/blob/output/github-contribution-grid-snake-dark.svg)
