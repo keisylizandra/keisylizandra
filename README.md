@@ -1,6 +1,6 @@
 <div style="display: inline_block">
  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" align="left">
- <h1 aling="center">Hi, Im' Keisy!</h1> </p>
+ <h1 aling="center">Hi, I'm Keisy!</h1> </p>
 </div>
 
 <p align="left">
